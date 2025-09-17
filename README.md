@@ -43,8 +43,7 @@ Credits to Jafeth ([Github](https://github.com/Jafeth12), [Reddit](https://www.r
 - Copy the _game.love_ file to ux0:/app/BALA00001/
 - Enjoy!
 > To use other languages follow [this](https://www.reddit.com/r/VitaPiracy/s/PnIFvNg45C) reddit comment.
-
-**If you want to support the project, you can leave a tip on my Ko-Fi: https://ko-fi.com/daexxx**                      
-**You can also support me on patreon: https://patreon.com/daexxx/**
+                     
+**If you want to support me you can leave a tip on my patreon: https://patreon.com/daexxx/**
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Daexxxx/Balatro-Vita&type=Date)](https://www.star-history.com/#Daexxxx/Balatro-Vita&Date)
