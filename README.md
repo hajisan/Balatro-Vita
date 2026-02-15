@@ -22,13 +22,14 @@ Credits to Jafeth ([Github](https://github.com/Jafeth12), [Reddit](https://www.r
 - Extract the zip file wherever you want.
 - Copy Balatro.exe (YOUR_STEAM_INSTALLATION_PATH/steamapps/common/Balatro/Balatro.exe) to the folder where the extracted zip resides.
 
-**Retrieve .exe file on MacOS** [FIRST DRAFT]
+**Retrieve .exe file on MacOS**
 
 - Download [Crossover from CodeWeavers](https://www.codeweavers.com/crossover/download)
 - Install the Steam client from Crossover
-- Once installed, log in and Download Balatro, this will be the Window version
-- In the Crossover app there is a menu on the right side where you can open the game in Finder
-- Navigate trough the folders and find the Balatro.exe file. 
+- Once installed, log in to your Steam account and download Balatro, this will be the Window version
+- In the Crossover under "BOTTLES" → "BOTTLES ACTIONS" click "Open C: Drive
+- Navigate to */Program Files (x86)/Steam/steamapps/common/Balatro*
+- Copy Balatro.exe
 
 #### IF YOU'RE ON WINDOWS:
 
